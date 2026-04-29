@@ -1,5 +1,7 @@
 ## Hi there, I'm Wangtao Bao👋
-<div align="center"> <img src="https://img.shields.io/badge/visitors?style=flat"></div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wangtao-Bao&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
 <!--
 **Wangtao-Bao/Wangtao-Bao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
