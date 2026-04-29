@@ -1,5 +1,5 @@
 ## Hi there, I'm Wangtao Bao👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Wangtao-Bao" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/:badgeContent?page_id=Wangtao-Bao" /> </div>
 <!--
 **Wangtao-Bao/Wangtao-Bao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
