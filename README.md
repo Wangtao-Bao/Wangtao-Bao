@@ -1,5 +1,5 @@
 ## Hi there, I'm Wangtao Bao👋
-<div align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent"></div>
+<div align="center"> <img src="https://img.shields.io/badge/visitors?style=flat"></div>
 <!--
 **Wangtao-Bao/Wangtao-Bao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
