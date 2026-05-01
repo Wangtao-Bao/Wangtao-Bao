@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wangtao Bao 😊👋</h1>
-**Research Interests:**   Multi-modal Image Processing, LLMs Inference, Visual Generation
+<p align="center"> <strong>Research Interests:</strong> Multi-modal Image Processing, LLMs Inference, Visual Generation </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wangtao-Bao&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/> </p>
 
 
