@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, I'm Wangtao Bao 😊👋</h1>
 <p align="center"> <strong>Research Interests:</strong> Multi-modal Image Processing, LLMs Inference, Visual Generation </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wangtao-Bao&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/> </p>
+<p align="center">
+  <!-- 访客计数 -->
+  <img src="https://komarev.com/ghpvc/?username=Wangtao-Bao&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+  <!-- 关注人数 -->
+  <img src="https://img.shields.io/github/followers/Wangtao-Bao?label=Followers&style=social" alt="followers badge"/>
+</p>
 
 
 <!--
