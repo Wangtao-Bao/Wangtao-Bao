@@ -3,16 +3,16 @@
 
 <p align="center">
   <!-- 访客计数 -->
-  <img src="https://komarev.com/ghpvc/?username=Wangtao-Bao&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Wangtao-Bao&label=Profile%20views&color=0e75b6&style=flat-square" alt="visitor badge"/>
   
   <!-- 关注人数 -->
   <a href="https://github.com/Wangtao-Bao">
-    <img src="https://img.shields.io/github/followers/Wangtao-Bao?label=Followers&style=social" alt="followers badge"/>
+    <img src="https://img.shields.io/github/followers/Wangtao-Bao?label=Followers&style=flat-square&color=444" alt="followers badge"/>
   </a>
   
-  <!-- 总 Star 数 (独特风格: for-the-badge) -->
+  <!-- 总 Star 数 -->
   <a href="https://github.com/Wangtao-Bao?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Wangtao-Bao?label=Stars&style=for-the-badge&color=ff69b4" alt="stars badge"/>
+    <img src="https://img.shields.io/github/stars/Wangtao-Bao?label=Stars&style=flat-square&color=ff69b4" alt="stars badge"/>
   </a>
 </p>
 
