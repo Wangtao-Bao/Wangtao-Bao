@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wangtao Bao 😊👋</h1>
-<p align="center"> <strong>Research Interests:</strong> Multi-modal Image Processing, LLMs Inference, Visual Generation </p>
+<h3 align="center">Research Interests: Multi-modal Image Processing, LLMs Inference, Visual Generation </h3>
 
 <p align="center">
   <!-- 访客计数 -->
