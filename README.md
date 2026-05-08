@@ -18,7 +18,7 @@
 📋 **Master's Publications**:
 I am about to receive my Master's degree in **_Software Engineering_** from **_Jiangxi University of Finance and Economics_**. During my Master's studies, my main research focus was infrared small target detection, and I was fortunate enough to publish several papers in this field. In these publications, my supervisor is the first author, and I am the second author.
 
-+ MPCNet: Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. ([[paper](https://ieeexplore.ieee.org/document/11346810)])([[code](https://github.com/Wangtao-Bao/APTNet)])
++ MPCNet: Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. ([[paper](https://ieeexplore.ieee.org/document/11346810)])([[code](https://github.com/Wangtao-Bao/MPCNet)])
 + HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. ([[paper](https://ieeexplore.ieee.org/document/11154006)])([[code](https://github.com/Wangtao-Bao/HAFNet)])
 + APTNet: Adaptive Partial Transformer Network for Infrared Small Target Detection. ***IEEE Sensors Journal***, 2025. ([[paper](https://ieeexplore.ieee.org/document/10965861)])([[code](https://github.com/Wangtao-Bao/APTNet)])
 + SANet: Selective Attention-based for Infrared Small Target Detection. ***Journal of Image and Graphics, China(中国图象图形学报)***, 2025. ([[paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/)])
