@@ -16,7 +16,7 @@
 </p>
 
 📋 **Master's Publications**:
-I am about to receive my Master's degree in **_Software Engineering_** from **_Jiangxi University of Finance and Economics_**. During my Master's studies, my main research focus was infrared small target detection, and I was fortunate enough to publish several papers in this field. In these publications, my supervisor is the first author, and I am the second author.
+During my master's studies, my research focused on infrared small target detection, and I was fortunate enough to publish several papers in related fields.
 
 + MPCNet: Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. ([[paper](https://ieeexplore.ieee.org/document/11346810)])([[code](https://github.com/Wangtao-Bao/MPCNet)])
 + HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. ([[paper](https://ieeexplore.ieee.org/document/11154006)])([[code](https://github.com/Wangtao-Bao/HAFNet)])
