@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wangtao Bao 😊👋</h1>
-### 26fall PHD student @ School of Automation, Southeast University
+<p align="center"> <strong> 26fall PHD student @ School of Automation, Southeast University</strong>
 <p align="center"> <strong>Research Interests:</strong> Multi-modal Image Processing, LLMs Inference, Visual Generation </p>
 
 <p align="center">
