@@ -16,7 +16,7 @@
 </p>
 
 📋 **Master's Publications**:
-During my master's studies, my research focused on infrared small target detection, and I was fortunate enough to publish several papers in related fields.
+During my master's studies, my research focused on infrared small target detection, and I was fortunate enough to publish several papers in related fields. I am deeply grateful to the researchers and scholars in this community, whose continuous efforts and outstanding contributions have greatly inspired my research and driven the progress of this field.
 
 + MPCNet: Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. ([[paper](https://ieeexplore.ieee.org/document/11346810)])([[code](https://github.com/Wangtao-Bao/MPCNet)])
 + HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. ([[paper](https://ieeexplore.ieee.org/document/11154006)])([[code](https://github.com/Wangtao-Bao/HAFNet)])
