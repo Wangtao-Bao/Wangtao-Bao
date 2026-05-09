@@ -18,8 +18,6 @@
 📋 **Master's Publications**:
 During my master's studies, my research focused on infrared small target detection, and I was fortunate enough to publish several papers in related fields. I am deeply grateful to the researchers and scholars in this community, whose continuous efforts and outstanding contributions have greatly inspired my research and driven the progress of this field.
 
-<ul>
-
 <li>
   <strong>MPCNet:</strong> Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection.
   <em>IEEE Transactions on Geoscience and Remote Sensing</em>, 2026.
@@ -32,8 +30,6 @@ During my master's studies, my research focused on infrared small target detecti
     <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github"/>
   </a>
 </li>
-
-<br>
 
 <li>
   <strong>HAFNet:</strong> Hierarchical Attention Fusion Network for Infrared Small Target Detection.
@@ -48,8 +44,6 @@ During my master's studies, my research focused on infrared small target detecti
   </a>
 </li>
 
-<br>
-
 <li>
   <strong>APTNet:</strong> Adaptive Partial Transformer Network for Infrared Small Target Detection.
   <em>IEEE Sensors Journal</em>, 2025.
@@ -63,11 +57,9 @@ During my master's studies, my research focused on infrared small target detecti
   </a>
 </li>
 
-<br>
-
 <li>
   <strong>SANet:</strong> Selective Attention Networks for Infrared Small Target Detection.
-  <em>Journal of Image and Graphics, China</em> 中国图象图形学报, 2025.
+  <em>Journal of Image and Graphics, China</em>, 2025.
   
   <a href="https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/">
     <img src="https://img.shields.io/badge/Paper-JIG-green?style=flat-square"/>
@@ -77,8 +69,6 @@ During my master's studies, my research focused on infrared small target detecti
     <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github"/>
   </a>
 </li>
-
-</ul>
 
 💼 **Review Services**:
 
