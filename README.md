@@ -18,10 +18,67 @@
 📋 **Master's Publications**:
 During my master's studies, my research focused on infrared small target detection, and I was fortunate enough to publish several papers in related fields. I am deeply grateful to the researchers and scholars in this community, whose continuous efforts and outstanding contributions have greatly inspired my research and driven the progress of this field.
 
-+ MPCNet: Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. ([[paper](https://ieeexplore.ieee.org/document/11346810)])([[code](https://github.com/Wangtao-Bao/MPCNet)])
-+ HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. ([[paper](https://ieeexplore.ieee.org/document/11154006)])([[code](https://github.com/Wangtao-Bao/HAFNet)])
-+ APTNet: Adaptive Partial Transformer Network for Infrared Small Target Detection. ***IEEE Sensors Journal***, 2025. ([[paper](https://ieeexplore.ieee.org/document/10965861)])([[code](https://github.com/Wangtao-Bao/APTNet)])
-+ SANet: Selective Attention Networks for Infrared Small Target Detection. ***Journal of Image and Graphics, China*** 中国图象图形学报), 2025. ([[paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/)])([[code](https://github.com/Wangtao-Bao/SANet)])
+<ul>
+
+<li>
+  <strong>MPCNet:</strong> Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection.
+  <em>IEEE Transactions on Geoscience and Remote Sensing</em>, 2026.
+  
+  <a href="https://ieeexplore.ieee.org/document/11346810">
+    <img src="https://img.shields.io/badge/Paper-TGRS-red?style=flat-square&logo=ieee&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Wangtao-Bao/MPCNet">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github"/>
+  </a>
+</li>
+
+<br>
+
+<li>
+  <strong>HAFNet:</strong> Hierarchical Attention Fusion Network for Infrared Small Target Detection.
+  <em>IEEE Transactions on Geoscience and Remote Sensing</em>, 2025.
+  
+  <a href="https://ieeexplore.ieee.org/document/11154006">
+    <img src="https://img.shields.io/badge/Paper-TGRS-red?style=flat-square&logo=ieee&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Wangtao-Bao/HAFNet">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github"/>
+  </a>
+</li>
+
+<br>
+
+<li>
+  <strong>APTNet:</strong> Adaptive Partial Transformer Network for Infrared Small Target Detection.
+  <em>IEEE Sensors Journal</em>, 2025.
+  
+  <a href="https://ieeexplore.ieee.org/document/10965861">
+    <img src="https://img.shields.io/badge/Paper-Sensors-blue?style=flat-square&logo=ieee&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Wangtao-Bao/APTNet">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github"/>
+  </a>
+</li>
+
+<br>
+
+<li>
+  <strong>SANet:</strong> Selective Attention Networks for Infrared Small Target Detection.
+  <em>Journal of Image and Graphics, China</em> 中国图象图形学报, 2025.
+  
+  <a href="https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/">
+    <img src="https://img.shields.io/badge/Paper-JIG-green?style=flat-square"/>
+  </a>
+  
+  <a href="https://github.com/Wangtao-Bao/SANet">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github"/>
+  </a>
+</li>
+
+</ul>
 
 💼 **Review Services**:
 
