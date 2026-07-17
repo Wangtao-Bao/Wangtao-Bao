@@ -15,9 +15,10 @@
   </a>
 </p>
 
-<p align="justify">📋 **Master's Publications**:During my master's studies, my research focused on infrared small-target detection, and I had the privilege of publishing several papers in this field. I extend my sincere gratitude to the researchers and scholars whose tireless efforts and outstanding contributions have greatly inspired my work and advanced the field. In the papers listed below, my supervisor is the first author, and I am the second author.</p>
+📋 **Master's Publications**:
+<p align="justify">During my master's studies, my research focused on infrared small-target detection, and I had the privilege of publishing several papers in this field. I extend my sincere gratitude to the researchers and scholars whose tireless efforts and outstanding contributions have greatly inspired my work and advanced the field. In the papers listed below, my supervisor is the first author, and I am the second author.</p>
 
-+ FSGNet: A Frequency-Aware and Semantic Guidance Network for Infrared Small Target Detection. ***Expert Systems with Applications***, 2026. ([[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426018373)])([[code](https://github.com/Wangtao-Bao/FSGNet)])
+<p align="justify">+ FSGNet: A Frequency-Aware and Semantic Guidance Network for Infrared Small Target Detection. ***Expert Systems with Applications***, 2026. ([[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426018373)])([[code](https://github.com/Wangtao-Bao/FSGNet)])</p>
 + MPCNet: Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. ([[paper](https://ieeexplore.ieee.org/document/11346810)])([[code](https://github.com/Wangtao-Bao/MPCNet)])
 + HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. ([[paper](https://ieeexplore.ieee.org/document/11154006)])([[code](https://github.com/Wangtao-Bao/HAFNet)])
 + APTNet: Adaptive Partial Transformer Network for Infrared Small Target Detection. ***IEEE Sensors Journal***, 2025. ([[paper](https://ieeexplore.ieee.org/document/10965861)])([[code](https://github.com/Wangtao-Bao/APTNet)])
