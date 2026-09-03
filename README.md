@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Wangtao Bao 😊👋</h1>
-<p align="center"> <strong> PHD student @ School of Automation, Southeast University
-Supervisor @ Associate Professor, Liping Xie</strong>
+<p align="center"> <strong> PHD student @ School of Automation, Southeast University</strong>
+<p align="center"> <strong> Supervisor @ Associate Professor, Liping Xie</strong>
 <p align="center"> <strong>Research Interests:</strong> Multi-modal Image Processing</p>
 
 <p align="center">
