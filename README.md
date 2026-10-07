@@ -23,7 +23,7 @@
 + MPCNet: Multi-scale Perception and Cross-attention Feature Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. ([[paper](https://ieeexplore.ieee.org/document/11346810)])([[code](https://github.com/Wangtao-Bao/MPCNet)])
 + HAFNet: Hierarchical Attention Fusion Network for Infrared Small Target Detection. ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. ([[paper](https://ieeexplore.ieee.org/document/11154006)])([[code](https://github.com/Wangtao-Bao/HAFNet)])
 + APTNet: Adaptive Partial Transformer Network for Infrared Small Target Detection. ***IEEE Sensors Journal***, 2025. ([[paper](https://ieeexplore.ieee.org/document/10965861)])([[code](https://github.com/Wangtao-Bao/APTNet)])
-+ SANet: Selective Attention Networks for Infrared Small Target Detection. ***Journal of Image and Graphics, China*** (中国图象图形学报), 2025. ([[paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/)])([[code](https://github.com/Wangtao-Bao/SANet)])
++ SANet: Selective Attention Network for Infrared Small Target Detection. ***Journal of Image and Graphics, China*** (中国图象图形学报), 2025. ([[paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.250313/)])([[code](https://github.com/Wangtao-Bao/SANet)])
 
 
 💼 **Review Services**:
