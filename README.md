@@ -16,9 +16,9 @@
   </a>
 </p>
 
-🎓 **PhD Publications**:
+🎓 **PhD Research Publications**:
 
-<p align="justify">My doctoral research focuses on underwater image enhancement and image restoration. I am particularly interested in combining learning-based approaches with physically motivated constraints and frequency-domain representations to improve color correction, detail recovery, and restoration consistency.</p>
+<p align="justify">My doctoral research focuses primarily on underwater image enhancement and restoration. My broader research interests include computer vision, multimodal image and video processing, and intelligent visual perception.</p>
 
 + MCL-UIE: Multi-level Constrained Learning for Underwater Image Enhancement. ***arXiv preprint***, 2026. ([[paper](https://arxiv.org/pdf/2610.39183)])([[code](https://github.com/Wangtao-Bao/MCL-UIE)])
 
